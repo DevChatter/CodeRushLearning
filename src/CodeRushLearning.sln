@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeRushLearning", "CodeRushLearning\CodeRushLearning.csproj", "{B37EB10F-13A0-45B5-8823-04720A0B78BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{22B4873C-890F-402F-BF15-082A2B926964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B37EB10F-13A0-45B5-8823-04720A0B78BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37EB10F-13A0-45B5-8823-04720A0B78BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37EB10F-13A0-45B5-8823-04720A0B78BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37EB10F-13A0-45B5-8823-04720A0B78BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B4873C-890F-402F-BF15-082A2B926964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B4873C-890F-402F-BF15-082A2B926964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B4873C-890F-402F-BF15-082A2B926964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B4873C-890F-402F-BF15-082A2B926964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AB8798B-7D8C-4664-BEAD-5A501041254E}
+	EndGlobalSection
+EndGlobal
